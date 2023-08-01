@@ -1,10 +1,7 @@
 title: Ragavendra Nagraj # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I possess a total of about fifteen years of work experience as a software engineer. My professional work experience is in feature or library development, QA with Automation (API and UI) and performance testing.
-  <br><br>
-  Second description 
-  <br><br>
+  Software Developer<br>Programmer<br>Performance<br>Automation<br>Security<br><br>
   <a href="https://www.linkedin.com/in/ragavendrabn/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
