@@ -51,6 +51,13 @@ _Bus times at a stop_
  - Loads the map for the user with the bus stops and its times near him/ her.
  - Arrival times included both static and real time(s) of the bus arrival.
 
+_Perf Service_
+ - Built an app to load the client app with gRPC or/ and HTTP endpoints and monitor the traffic on Grafana dashboard using the Prometheus.
+ - User can run one or many client(s) to run the performance tests on them.
+ - User can distribute load evenly or unevenly within a second.
+ - User management is done using the In memory cache or using the redis cache.
+ - More features here https://github.com/ragavendra/PerfService
+
 ---
 
 Translink<br>
