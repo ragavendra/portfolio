@@ -24,12 +24,12 @@ Packages:			Blazor, Selenium, Vim, Asp.net, Rakefile, Expect tool, Docker, TestC
 
 ### Professional Experience
 
-TPC - Blizzard Entertainment
-Sr Performance Developer
-August 2022 – Current
-Tools: MS Visual Studio 2019, 2022
-Platform: C#, gRPC, Blazor
-Description:
+TPC - Blizzard Entertainment<br>
+Sr Performance Developer<br>
+August 2022 – Current<br>
+Tools: MS Visual Studio 2019, 2022<br>
+Platform: C#, gRPC, Blazor<br>
+Description:<br>
 _Performance tool features development_
  - Added end to end features to the existing legacy performance testing platform like.
  - Load distribution to selected clients when running each of the performance test(s).
@@ -42,12 +42,12 @@ _Performance tool features development_
 
 ---
 
-Garden Systems (Self employed)
-Development Engineer
-July 2021 – July 2022
-Tools: MS Visual Studio 2019
-Platform: C#, gRPC
-Description:
+Garden Systems (Self employed)<br>
+Development Engineer<br>
+July 2021 – July 2022<br>
+Tools: MS Visual Studio 2019<br>
+Platform: C#, gRPC<br>
+Description:<br>
 _Bus times at a stop_
  - Building an app to fetch the bus stops and their times for a user near him/ her.
  - Loads the map for the user with the bus stops and its times near him/ her.
@@ -55,12 +55,12 @@ _Bus times at a stop_
 
 ---
 
-Translink
-Sr QA Automation Analyst
-June 2019 – December 2020
-Tools: MS Visual Studio 2017
-Platform: C#, Selenium webdriver
-Description:
+Translink<br>
+Sr QA Automation Analyst<br>
+June 2019 – December 2020<br>
+Tools: MS Visual Studio 2017<br>
+Platform: C#, Selenium webdriver<br>
+Description:<br>
 _API automation_
  - Implementing/ setting up tests framework for API automation testing. API tests for migration to Azure cloud.  Checking the API call response status, data comparison and responses verification with integration testing. Machine learning generated data was tested for accuracy and validity, say for the bus arrival times at a particular bus stop.
 
@@ -75,12 +75,12 @@ _JMeter performance tests_
 
 ---
 
-Microserve
-QA Automation - Translink
-Apr 2018 – May 2019
-Tools: MS Visual Studio 2017
-Platform: Atata, C#
-Description:
+Microserve<br>
+QA Automation - Translink<br>
+Apr 2018 – May 2019<br>
+Tools: MS Visual Studio 2017<br>
+Platform: Atata, C#<br>
+Description:<br>
 _API automation_
  - For comparing the API responses from the old production to the new system built on Azure infrastructure. Tools development to help field testing and data analysis.
 
@@ -92,12 +92,12 @@ _Native windows application automation
 
 ---
 
-Mogo
-Sr. Software Developer in Test
-June 2015 – Nov 2016
-Tools: Selenium, Vim with Tmux
-Platform: Ruby, Webrick, Docker, AWS, Linux
-Description:
+Mogo<br>
+Sr. Software Developer in Test<br>
+June 2015 – Nov 2016<br>
+Tools: Selenium, Vim with Tmux<br>
+Platform: Ruby, Webrick, Docker, AWS, Linux<br>
+Description:<br>
 _API automation tests and framework development_
  - Developed the API tests using the Minitest and added methods for each of the endpoints to make the REST calls and verify the response data
 
@@ -112,12 +112,12 @@ _JMeter API performance tests_
 
 ---
 
-Exan Dental
-Software Developer in Test
-Mar 2014 – May 2015
-Tools: TestComplete, SoapUI, JMeter, JIRA
-Platform: Javascript, Groovy, Web services, Web, Windows
-Description:
+Exan Dental<br>
+Software Developer in Test<br>
+Mar 2014 – May 2015<br>
+Tools: TestComplete, SoapUI, JMeter, JIRA<br>
+Platform: Javascript, Groovy, Web services, Web, Windows<br>
+Description:<br>
 _TestComplete automation framework and tests developer_
 Test framework and tests were developed using the independent scripts to launch, load and run the tests developed in TestComplete and are scheduled to run on a daily basis.
 
@@ -128,12 +128,12 @@ _JMeter performance  framework and tests developer_
 Web services framework and tests developed using JMeter to launch, load and run Web services performance tests and report results
 
 ---
-Capgemini
-Software Developer in Test - BC Hydro
-Jun 2011 – Nov 2013
-Tools: QTP, Notepad++
-Platform: PHP, C#, SAP, Linux, Windows
-Description:
+Capgemini<br>
+Software Developer in Test - BC Hydro<br>
+Jun 2011 – Nov 2013<br>
+Tools: QTP, Notepad++<br>
+Platform: PHP, C#, SAP, Linux, Windows<br>
+Description:<br>
 _SAP-ISU test framework and tools development_
 The SAP tests framework and the tools were developed to help create and provision the smart meters in the system with verification checks across integrated systems.
 
@@ -158,23 +158,22 @@ _Independent scripts or tests launcher_
 
 ---
 
-Automation Technical Lead - Disney
-Jun 2010 – May 2011
-Tools: QTP
-Platform: IBM Mainframe
-Description:
+Automation Technical Lead - Disney<br>
+Jun 2010 – May 2011<br>
+Tools: QTP<br>
+Platform: IBM Mainframe<br>
+Description:<br>
  - Test framework knowledge transfer from the onshore team
  - Team mentoring for automated test case development
  - Automated test case reviews
 
 ---
 
-Keane
-
-SQA Team Lead - McKesson Healthcare
-Jan 2010 – May 2010
-Tools: Quality Centre, Mindmap
-Description:
+Keane<br>
+SQA Team Lead - McKesson Healthcare<br>
+Jan 2010 – May 2010<br>
+Tools: Quality Centre, Mindmap<br>
+Description:<br>
  - Approved Change requests on verification of the test execution
  - Sampling reviews of hundreds of test cases, mind maps before client delivery
  - Organized team meetings for SQA review checks of tests, change requests and other deliverables
@@ -182,21 +181,21 @@ Description:
 
 ---
 
-QA Tester -  Standard & Poor
-Jun 2009 – Dec 2009
-Tools: Quality Centre, Spira, Rally
-Platform: Web
-Description:
+QA Tester -  Standard & Poor<br>
+Jun 2009 – Dec 2009<br>
+Tools: Quality Centre, Spira, Rally<br>
+Platform: Web<br>
+Description:<br>
  - S&P required a system to be able to post and publish important market flashes. Flex add on was used to identify the flex objects. The flash news would be made ready by the journalists as Intern users. The editor as analyst could publish these flash articles to S&P clients such as Bloomberg, EDS and ERL. The latest Agile testing methodology was used. Each user story needed to be completed within a span of two weeks which involved both the development as well as the testing.
 
 ---
 
-IBM
-Automation/ Manual Tester
-Nov 2006 – May 2009
-Tools: Rational Functional Tester, DB2
-Platform: Javascript, Java
-Description:
+IBM<br>
+Automation/ Manual Tester<br>
+Nov 2006 – May 2009<br>
+Tools: Rational Functional Tester, DB2<br>
+Platform: Javascript, Java<br>
+Description:<br>
  - IBM’s own standard three tier test automation framework was used, which had the key function libraries. The first tier being the tests, then the object declaration and the final is the object repository. Keyword driven architecture was used. Data was taken from the data pool having mostly CSV or XLS data format. RFT scripting was done to test the application in the regression and the system testing phase. Objects were maintained in a separate module to help make them reusable for many scripts. Regular expressions were used for optimizing the objects and at verification points.
 
 ---
