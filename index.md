@@ -87,7 +87,7 @@ _API automation_
 _Atata web automation developer_
  - Implementing the Atata web automation test framework for the UI web tests development.
 
-_Native windows application automation
+_Native windows application automation_
  - for the active directory application which was used for network administration operations like add/ edit/ update contractors/ employees and all.
 
 ---
@@ -150,11 +150,11 @@ Developed to connect and fetch memory data periodically from the router.
 The memory leak data was later displayed using Highcharts graphical JQuery Javascript libraries to analyze and evaluate the memory leak
 
 _Cisco routers time latency check application_
- - Developed to connect and fetch time periodically from the router.
+- Developed to connect and fetch time periodically from the router.
  - The time data was later displayed using Highcharts graphical JQuery Javascript libraries to evaluate the time latency. Apparently the time lag would cause the router to reboot and the lag delta needed to be identified and reported to the firmware department to be fixed.
 
 _Independent scripts or tests launcher_
- - Developed to launch, load and run the automated tests. It was scheduled for the daily run and the output test results were in the JSON format for the Node.JS app to pick it up and report.
+- Developed to launch, load and run the automated tests. It was scheduled for the daily run and the output test results were in the JSON format for the Node.JS app to pick it up and report.
 
 ---
 
