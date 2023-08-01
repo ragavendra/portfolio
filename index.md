@@ -1,7 +1,7 @@
 ## Software Developer/ Engineer/ Programmer/ Performance/ Automation/ Security
 
 ### Profile
-	I possess a total of about fifteen years of work experience as a software engineer. My professional work experience is in feature or library development, QA with Automation (API and UI) and performance testing.
+I possess a total of about fifteen years of work experience as a software engineer. My professional work experience is in feature or library development, QA with Automation (API and UI) and performance testing.
 
 - End to End full stack feature web development using MS Blazor and ASP.NET
 - REST SOA API functional test automation framework and tests development
@@ -31,7 +31,6 @@ Platform: C#, gRPC, Blazor
 Description:
 - Performance tool features development
 Added end to end features to the existing legacy performance testing platform like.
-
 Load distribution to selected clients when running each of the performance test(s).
 Configuration management system as a service to load configurations from the JSON file(s).
 Option to load gRPC or http library depending on the type of test(s) being run. 
@@ -178,9 +177,10 @@ Description:
 Approved Change requests on verification of the test execution
 Sampling reviews of hundreds of test cases, mind maps before client delivery
 Organized team meetings for SQA review checks of tests, change requests and other deliverables
-	Status Reporting discussions/ meetings with senior management
+Status Reporting discussions/ meetings with senior management
 
 ---
+
 QA Tester -  Standard & Poor
 Jun 2009 – Dec 2009
 Tools: Quality Centre, Spira, Rally
