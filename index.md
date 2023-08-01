@@ -14,10 +14,10 @@ I possess a total of about fifteen years of work experience as a software engine
 - Domains - Utilities, Media, Finance
 
 ### Skills
-Programming Languages:		C#, CSS, Ruby, Python, HTML, PHP, Javascript, Groovy, TCL/TK, Bash scripting, C, SQL
-Operating Systems: 		Linux , Windows, Mac, IBM UNIX/ AIX
-Databases:			MySQL, Oracle, MongoDB
-Packages:			Blazor, Selenium, Vim, Asp.net, Rakefile, Expect tool, Docker, TestComplete, JMeter, QTP, Visual Studio, SOAP-UI, SAP – ISU
+Programming Languages:		C#, CSS, Ruby, Python, HTML, PHP, Javascript, Groovy, TCL/TK, Bash scripting, C, SQL<br>
+Operating Systems: 		Linux , Windows, Mac, IBM UNIX/ AIX<br>
+Databases:			MySQL, Oracle, MongoDB<br>
+Packages:			Blazor, Selenium, Vim, Asp.net, Rakefile, Expect tool, Docker, TestComplete, JMeter, QTP, Visual Studio, SOAP-UI, SAP – ISU<br>
 
 
 ### Professional Experience
