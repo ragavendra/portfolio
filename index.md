@@ -1,5 +1,3 @@
-## Software Developer/ Engineer/ Programmer/ Performance/ Automation/ Security
-
 ### Profile
 I possess a total of about fifteen years of work experience as a software engineer. My professional work experience is in feature or library development, QA with Automation (API and UI) and performance testing.
 
@@ -31,14 +29,14 @@ Tools: MS Visual Studio 2019, 2022<br>
 Platform: C#, gRPC, Blazor<br>
 Description:<br>
 _Performance tool features development_
- Added end to end features to the existing legacy performance testing platform like.
- Load distribution to selected clients when running each of the performance test(s).
- Configuration management system as a service to load configurations from the JSON file(s).
- Option to load gRPC or http library depending on the type of test(s) being run. 
- Option to load unregistered soft accounts or not.
- To use accounts data from a CSV file and option to send a range for each of the test client(s).
- Migration of the entire system(s) from .NetCoreApp3.1 to .Net6.0
- Http library development and data management support to run http based api tests. 
+ - Added end to end features to the existing legacy performance testing platform like.
+ - Load distribution to selected clients when running each of the performance test(s).
+ - Configuration management system as a service to load configurations from the JSON file(s).
+ - Option to load gRPC or http library depending on the type of test(s) being run. 
+ - Option to load unregistered soft accounts or not.
+ - To use accounts data from a CSV file and option to send a range for each of the test client(s).
+ - Migration of the entire system(s) from .NetCoreApp3.1 to .Net6.0
+ - Http library development and data management support to run http based api tests. 
 
 ---
 
@@ -49,9 +47,9 @@ Tools: MS Visual Studio 2019<br>
 Platform: C#, gRPC<br>
 Description:<br>
 _Bus times at a stop_
- Building an app to fetch the bus stops and their times for a user near him/ her.
- Loads the map for the user with the bus stops and its times near him/ her.
- Arrival times included both static and real time(s) of the bus arrival.
+ - Building an app to fetch the bus stops and their times for a user near him/ her.
+ - Loads the map for the user with the bus stops and its times near him/ her.
+ - Arrival times included both static and real time(s) of the bus arrival.
 
 ---
 
@@ -62,16 +60,16 @@ Tools: MS Visual Studio 2017<br>
 Platform: C#, Selenium webdriver<br>
 Description:<br>
 _API automation_
- Implementing/ setting up tests framework for API automation testing. API tests for migration to Azure cloud.  Checking the API call response status, data comparison and responses verification with integration testing. Machine learning generated data was tested for accuracy and validity, say for the bus arrival times at a particular bus stop.
+ - Implementing/ setting up tests framework for API automation testing. API tests for migration to Azure cloud.  Checking the API call response status, data comparison and responses verification with integration testing. Machine learning generated data was tested for accuracy and validity, say for the bus arrival times at a particular bus stop.
 
 _Test case migration tool_
- Developed a tool to migrate the test cases from qTest to VSTS in the Azure.
+ - Developed a tool to migrate the test cases from qTest to VSTS in the Azure.
 
 _Selenium web automation developer_
- Updating the existing Selenium web automation test framework for the UI web tests development. UI tests for Smoke/ regression testing after each release.
+ - Updating the existing Selenium web automation test framework for the UI web tests development. UI tests for Smoke/ regression testing after each release.
 
 _JMeter performance tests_
- Designed the tests to check the load times for the page loads and the login functions. Numbers were shared based on the resources usage and the condition(s) for the CMS to break or underperform.
+ - Designed the tests to check the load times for the page loads and the login functions. Numbers were shared based on the resources usage and the condition(s) for the CMS to break or underperform.
 
 ---
 
@@ -82,13 +80,13 @@ Tools: MS Visual Studio 2017<br>
 Platform: Atata, C#<br>
 Description:<br>
 _API automation_
- For comparing the API responses from the old production to the new system built on Azure infrastructure. Tools development to help field testing and data analysis.
+ - For comparing the API responses from the old production to the new system built on Azure infrastructure. Tools development to help field testing and data analysis.
 
 _Atata web automation developer_
- Implementing the Atata web automation test framework for the UI web tests development.
+ - Implementing the Atata web automation test framework for the UI web tests development.
 
 _Native windows application automation_
- for the active directory application which was used for network administration operations like add/ edit/ update contractors/ employees and all.
+ - for the active directory application which was used for network administration operations like add/ edit/ update contractors/ employees and all.
 
 ---
 
@@ -99,16 +97,16 @@ Tools: Selenium, Vim with Tmux<br>
 Platform: Ruby, Webrick, Docker, AWS, Linux<br>
 Description:<br>
 _API automation tests and framework development_
- Developed the API tests using the Minitest and added methods for each of the endpoints to make the REST calls and verify the response data
+ - Developed the API tests using the Minitest and added methods for each of the endpoints to make the REST calls and verify the response data
 
 _UI automation tests and framework development_
- Developed the UI tests using the Selenium webdriver and added the page objects for each of the web pages to perform various data related operations on them.
+ - Developed the UI tests using the Selenium webdriver and added the page objects for each of the web pages to perform various data related operations on them.
 
 _Continuous Integration server sole development using Webricks_
- Webrick server was built to consume Quay’s successful build complete POSTs. Once the build complete post was received by the server, the newer docker images were pulled and updated on the server using the Docker commands.  Finally, the API and the UI tests were run on them, the run results and its log URL was posted to the Slack channel for the subscribers to see.
+ - Webrick server was built to consume Quay’s successful build complete POSTs. Once the build complete post was received by the server, the newer docker images were pulled and updated on the server using the Docker commands.  Finally, the API and the UI tests were run on them, the run results and its log URL was posted to the Slack channel for the subscribers to see.
 
 _JMeter API performance tests_
- Designed the framework for the SOA API performance tests. Wrote a sample JMeter performance tests with the help of the jMeter gem and tried jruby integration as well.
+ - Designed the framework for the SOA API performance tests. Wrote a sample JMeter performance tests with the help of the jMeter gem and tried jruby integration as well.
 
 ---
 
@@ -119,13 +117,13 @@ Tools: TestComplete, SoapUI, JMeter, JIRA<br>
 Platform: Javascript, Groovy, Web services, Web, Windows<br>
 Description:<br>
 _TestComplete automation framework and tests developer_
- Test framework and tests were developed using the independent scripts to launch, load and run the tests developed in TestComplete and are scheduled to run on a daily basis.
+ - Test framework and tests were developed using the independent scripts to launch, load and run the tests developed in TestComplete and are scheduled to run on a daily basis.
 
 _SoapUI automation framework and tests developer_
- Web services tests were developed in SoapUI and Groovy scripting was used. These tests were scripted to launch, load and run the tests and report its results.
+ - Web services tests were developed in SoapUI and Groovy scripting was used. These tests were scripted to launch, load and run the tests and report its results.
 
 _JMeter performance  framework and tests developer_
- Web services framework and tests developed using JMeter to launch, load and run Web services performance tests and report results
+ - Web services framework and tests developed using JMeter to launch, load and run Web services performance tests and report results
 
 ---
 Capgemini<br>
@@ -135,26 +133,26 @@ Tools: QTP, Notepad++<br>
 Platform: PHP, C#, SAP, Linux, Windows<br>
 Description:<br>
 _SAP-ISU test framework and tools development_
- The SAP tests framework and the tools were developed to help create and provision the smart meters in the system with verification checks across integrated systems.
+ - The SAP tests framework and the tools were developed to help create and provision the smart meters in the system with verification checks across integrated systems.
 
 _Data Mining tool_
- Developed to fetch the smart meter data across the three main systems in the smart meter technology. The three main systems the SAP-ISU, Meter Data Management system and the Openway Collection Engine system data using the Oracle databases were joined effectively. It was used for the test data purposes, data concurrency checks and to identify the meter grouping based on its type.
+ - Developed to fetch the smart meter data across the three main systems in the smart meter technology. The three main systems the SAP-ISU, Meter Data Management system and the Openway Collection Engine system data using the Oracle databases were joined effectively. It was used for the test data purposes, data concurrency checks and to identify the meter grouping based on its type.
 The tool's architecture is flexible to be reused for different Utilities vendor implementation as well as it uses the SAP SQVI JOIN of ISU Standard data tables for the smart meter data retrieval.
 
 _Cisco routers configuration automation script_
- Developed to configure the routers based on the vendor specific configurations.
+ - Developed to configure the routers based on the vendor specific configurations.
 Can be invoked to perform router configuration updates on multiple routers in sequence or in concurrency
 
 _Cisco routers memory leak monitor application_
- Developed to connect and fetch memory data periodically from the router.
+ - Developed to connect and fetch memory data periodically from the router.
 The memory leak data was later displayed using Highcharts graphical JQuery Javascript libraries to analyze and evaluate the memory leak
 
 _Cisco routers time latency check application_
-- Developed to connect and fetch time periodically from the router.
+ - Developed to connect and fetch time periodically from the router.
  The time data was later displayed using Highcharts graphical JQuery Javascript libraries to evaluate the time latency. Apparently the time lag would cause the router to reboot and the lag delta needed to be identified and reported to the firmware department to be fixed.
 
 _Independent scripts or tests launcher_
- Developed to launch, load and run the automated tests. It was scheduled for the daily run and the output test results were in the JSON format for the Node.JS app to pick it up and report.
+ - Developed to launch, load and run the automated tests. It was scheduled for the daily run and the output test results were in the JSON format for the Node.JS app to pick it up and report.
 
 ---
 
@@ -207,7 +205,7 @@ Tools: GCC<br>
 Platform: RTLinux<br>
 Description:<br>
 _Real-Time Linux driver for the serial port_
-The aim of rt_com is to provide a easy interface to the serial port hardware from real-time contexts. It 
+ - The aim of rt_com is to provide a easy interface to the serial port hardware from real-time contexts. It 
 provides all needed functionality to communicate with electronic equipment along standard serial lines.
  Setting up of the serial port is done through the rt_com_setup. Writing data to the port is done through the
 rt_com_write. Reading data from the port is achieved by the rt_com_read. Data structures such as the
@@ -226,32 +224,6 @@ Diploma in Embedded System Design in Linux - Centre for Development of Advanced 
 Capgemini Connects - Best Performer Award for BCHydro
 
 For approaching people, perform follow ups and get things done for helping the system wide testing and the sustainment team for their test data preparation. To live up to tight delivery schedules and for assertive skills.
-
-
----
-
-
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template <a href="https://github.com/ragavendra">ragavendra</a></p>
