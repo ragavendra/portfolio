@@ -17,11 +17,34 @@ I possess a total of about fifteen years of work experience as a software engine
 Programming Languages:		C#, CSS, Ruby, Python, HTML, PHP, Javascript, Groovy, TCL/TK, Bash scripting, C, SQL<br>
 Operating Systems: 		Linux , Windows, Mac, IBM UNIX/ AIX<br>
 Databases:			MySQL, Oracle, MongoDB<br>
-Packages:			Blazor, Selenium, Vim, Asp.net, Rakefile, Expect tool, Docker, TestComplete, JMeter, QTP, Visual Studio, SOAP-UI, SAP – ISU<br>
+Packages:			Blazor, ASP .Net, Selenium, Vim, Asp.net, Rakefile, Expect tool, Docker, TestComplete, JMeter, QTP, Visual Studio, SOAP-UI, SAP – ISU<br>
 
+### Learning Experience
+_<a href="https://github.com/ragavendra/RealWorldClasses">Real World Classes</a><br>_
+ - Classes of real world objects like for `Plants`, `Animals`, `Electronics` with sample use cases using Observer pattern using events 
+
+_<a href="https://github.com/ragavendra/Csharp">Design Patterns</a><br>_
+ - App showing various popular design patterns such as `Singleton`, `Factory`, `Observer`, `Decorator`, `Abstract Factory`, `Remote`, `Prototype` and sorting by merge or quick sort.
+
+_<a href="https://github.com/ragavendra/WebAuth">Web Authentication</a><br>_
+ - Minimal ASP .Net app using SQLite for registration and login purposes. Login integration with thirp party services by `Microsoft`, `Google` and all.
+
+_<a href="https://github.com/ragavendra/minApi">Minimal Api</a><br>_
+ - Minimal ASP .Net app showing various options for a demo app to be used for testing and learning purposes.
+
+_<a href="https://github.com/ragavendra/netext">Next Transit</a><br>_
+ - ASP .Net app loading `GTFS` data from the local transit and showing the transit times near you on a map.
+
+_<a href="https://github.com/ragavendra/APITests">APITests</a><br>_
+ - Test framework for implementing HTTP tests with almost no additional packages.
+
+_<a href="https://github.com/ragavendra/Selenium">Selenium</a>_
+ - Test framework for implementing UI tests with minimal additional packages.
+---
 
 ### Professional Experience
 
+Minimal API
 TPC - Blizzard Entertainment<br>
 Sr Performance Developer<br>
 August 2022 – Current<br>
@@ -51,7 +74,7 @@ _Bus times at a stop_
  - Loads the map for the user with the bus stops and its times near him/ her.
  - Arrival times included both static and real time(s) of the bus arrival.
 
-_Perf Service_
+_<a href="https://github.com/ragavendra/PerfService">Perf Service</a><br>_
  - Built an app to load the client app with gRPC or/ and HTTP endpoints and monitor the traffic on Grafana dashboard using the Prometheus.
  - User can run one or many client(s) to run the performance tests on them.
  - User can distribute load evenly or unevenly within a second.
