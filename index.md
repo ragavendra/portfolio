@@ -79,7 +79,6 @@ _<a href="https://github.com/ragavendra/PerfService">Perf Service</a><br>_
  - User can run one or many client(s) to run the performance tests on them.
  - User can distribute load evenly or unevenly within a second.
  - User management is done using the In memory cache or using the redis cache.
- - More features here https://github.com/ragavendra/PerfService
 
 ---
 
