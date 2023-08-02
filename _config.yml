@@ -17,4 +17,4 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: G-7J9CY6WCBE # your Google Analytics tracking ID here
+google_analytics: G-ZWD5MVX8TS # your Google Analytics tracking ID here
