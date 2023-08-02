@@ -258,3 +258,5 @@ For approaching people, perform follow ups and get things done for helping the s
 ---
 <p style="font-size:11px">Page template <a href="https://github.com/ragavendra">ragavendra</a></p>
 <!-- Remove above link if you don't want to attibute -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8101609210846926"
+     crossorigin="anonymous"></script>
