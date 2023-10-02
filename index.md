@@ -20,6 +20,10 @@ Databases:			MySQL, Oracle, MongoDB<br>
 Packages:			Blazor, ASP .Net, NodeJS, Drupal, Selenium, Vim, Asp.net, Rakefile, Expect tool, Docker, TestComplete, JMeter, QTP, Visual Studio, SOAP-UI, SAP – ISU<br>
 
 ### Projects
+
+_<a href="https://stopsnearme.ca/" target="_blank">Stops Near Me</a><br>_
+ - NodeJs app loading `GTFS` data from the local transit and showing the transit times near you on a map.
+   
 _<a href="https://github.com/ragavendra/RealWorldClasses" target="_blank">Real World Classes</a><br>_
  - Classes of real world objects like for `Plants`, `Animals`, `Electronics` with sample use cases using Observer pattern using events 
 
@@ -31,9 +35,6 @@ _<a href="https://github.com/ragavendra/WebAuth" target="_blank">Web Authenticat
 
 _<a href="https://github.com/ragavendra/minApi" target="_blank">Minimal Api</a><br>_
  - Minimal ASP .Net app showing various options for a demo app to be used for testing and learning purposes.
-
-_<a href="https://github.com/ragavendra/netext" target="_blank">Next Transit</a><br>_
- - ASP .Net app loading `GTFS` data from the local transit and showing the transit times near you on a map.
 
 _<a href="https://github.com/ragavendra/APITests" target="_blank">APITests</a><br>_
  - Test framework for implementing HTTP tests with almost no additional packages.
@@ -70,7 +71,7 @@ July 2021 – July 2022<br>
 Tools: MS Visual Studio 2019<br>
 Platform: C#, NextJs<br>
 Description:<br>
-_<a href="https://stopsnearme.ca/" target="_blank">Bus times at a stop_</a>_
+_<a href="https://stopsnearme.ca/" target="_blank">Bus times at a stop</a>_
  - Building an app to fetch the bus stops and their times for a user near him/ her.
  - Loads the map for the user with the bus stops and its times near him/ her.
  - Arrival times included both static and real time(s) of the bus arrival.
