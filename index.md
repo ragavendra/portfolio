@@ -14,31 +14,31 @@ I possess a total of about fifteen years of work experience as a software engine
 - Domains - Utilities, Media, Finance
 
 ### Skills
-Programming Languages:		C#, CSS, Ruby, Python, HTML, PHP, Javascript, Groovy, TCL/TK, Bash scripting, C, SQL<br>
+Programming Languages:		C#, Javascript, CSS, Ruby, Python, HTML, PHP, Javascript, Groovy, TCL/TK, Bash, C, SQL<br>
 Operating Systems: 		Linux , Windows, Mac, IBM UNIX/ AIX<br>
 Databases:			MySQL, Oracle, MongoDB<br>
-Packages:			Blazor, ASP .Net, Selenium, Vim, Asp.net, Rakefile, Expect tool, Docker, TestComplete, JMeter, QTP, Visual Studio, SOAP-UI, SAP – ISU<br>
+Packages:			Blazor, ASP .Net, NodeJS, Drupal, Selenium, Vim, Asp.net, Rakefile, Expect tool, Docker, TestComplete, JMeter, QTP, Visual Studio, SOAP-UI, SAP – ISU<br>
 
 ### Projects
-_<a href="https://github.com/ragavendra/RealWorldClasses">Real World Classes</a><br>_
+_<a href="https://github.com/ragavendra/RealWorldClasses" target="_blank">Real World Classes</a><br>_
  - Classes of real world objects like for `Plants`, `Animals`, `Electronics` with sample use cases using Observer pattern using events 
 
-_<a href="https://github.com/ragavendra/Csharp">Design Patterns</a><br>_
+_<a href="https://github.com/ragavendra/Csharp" target="_blank">Design Patterns</a><br>_
  - App showing various popular design patterns such as `Singleton`, `Factory`, `Observer`, `Decorator`, `Abstract Factory`, `Remote`, `Prototype` and sorting by merge or quick sort.
 
-_<a href="https://github.com/ragavendra/WebAuth">Web Authentication</a><br>_
+_<a href="https://github.com/ragavendra/WebAuth" target="_blank">Web Authentication</a><br>_
  - Minimal ASP .Net app using SQLite for registration and login purposes. Login integration with thirp party services by `Microsoft`, `Google` and all.
 
-_<a href="https://github.com/ragavendra/minApi">Minimal Api</a><br>_
+_<a href="https://github.com/ragavendra/minApi" target="_blank">Minimal Api</a><br>_
  - Minimal ASP .Net app showing various options for a demo app to be used for testing and learning purposes.
 
-_<a href="https://github.com/ragavendra/netext">Next Transit</a><br>_
+_<a href="https://github.com/ragavendra/netext" target="_blank">Next Transit</a><br>_
  - ASP .Net app loading `GTFS` data from the local transit and showing the transit times near you on a map.
 
-_<a href="https://github.com/ragavendra/APITests">APITests</a><br>_
+_<a href="https://github.com/ragavendra/APITests" target="_blank">APITests</a><br>_
  - Test framework for implementing HTTP tests with almost no additional packages.
 
-_<a href="https://github.com/ragavendra/Selenium">Selenium</a>_
+_<a href="https://github.com/ragavendra/Selenium" target="_blank">Selenium</a>_
  - Test framework for implementing UI tests with minimal additional packages.
 
 ---
@@ -68,14 +68,14 @@ Garden Systems (Self employed)<br>
 Development Engineer<br>
 July 2021 – July 2022<br>
 Tools: MS Visual Studio 2019<br>
-Platform: C#, gRPC<br>
+Platform: C#, NextJs<br>
 Description:<br>
-_Bus times at a stop_
+_<a href="https://stopsnearme.ca/" target="_blank">Bus times at a stop_</a>_
  - Building an app to fetch the bus stops and their times for a user near him/ her.
  - Loads the map for the user with the bus stops and its times near him/ her.
  - Arrival times included both static and real time(s) of the bus arrival.
 
-_<a href="https://github.com/ragavendra/PerfService">Perf Service</a><br>_
+_<a href="https://github.com/ragavendra/PerfService" target="_blank">Perf Service</a><br>_
  - Built an app to load the client app with gRPC or/ and HTTP endpoints and monitor the traffic on Grafana dashboard using the Prometheus.
  - User can run one or many client(s) to run the performance tests on them.
  - User can distribute load evenly or unevenly within a second.
@@ -191,7 +191,7 @@ Jun 2008 – May 2015<br>
 Tools: Drupal 6 and 7, Ubercart, SQL<br>
 Platform: LAMP, Nginx<br>
 Description:<br>
-   FashionJewelry is one of the leading seller of artificial jewelry in India. They required the state of the art portal to be built and maintained. The portal required the integration of eCommerce module like the `Ubercart` to be implemented for the shopping cart and the checkout operations. `Views` was used to setup the various displays of the product in different pages like in the home and the product pages and in the product page itself. Since Indian rupee was not a paypal currrency for accepting the card payments, relevant patches were written and updated like <a href="https://www.drupal.org/user/283656">here</a> to enable accepting payments in it.
+   FashionJewelry is one of the leading seller of artificial jewelry in India. They required the state of the art portal to be built and maintained. The portal required the integration of eCommerce module like the `Ubercart` to be implemented for the shopping cart and the checkout operations. `Views` was used to setup the various displays of the product in different pages like in the home and the product pages and in the product page itself. Since Indian rupee was not a paypal currrency for accepting the card payments, relevant patches were written and updated like <a href="https://www.drupal.org/user/283656" target="_blank">here</a> to enable accepting payments in it.
 
 ---
 Full Stack Development & Maintenance - LinuxFlavour<br>
@@ -273,7 +273,7 @@ Capgemini Connects - Best Performer Award for BCHydro
 For approaching people, perform follow ups and get things done for helping the system wide testing and the sustainment team for their test data preparation. To live up to tight delivery schedules and for assertive skills.
 
 ---
-<p style="font-size:11px">Page template <a href="https://github.com/ragavendra">ragavendra</a></p>
+<p style="font-size:11px">Page template <a href="https://github.com/ragavendra" target="_blank">ragavendra</a></p>
 <!-- Remove above link if you don't want to attibute -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8101609210846926"
      crossorigin="anonymous"></script>
