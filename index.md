@@ -186,6 +186,23 @@ _Independent scripts or tests launcher_
 
 ---
 
+Full Stack Development & Maintenance - FashionJewelry<br>
+Jun 2008 – May 2015<br>
+Tools: Drupal 6 and 7, Ubercart, SQL<br>
+Platform: LAMP, Nginx<br>
+Description:<br>
+   FashionJewelry is one of the leading seller of artificial jewelry in India. They required the state of the art portal to be built and maintained. The portal required the integration of eCommerce module like the `Ubercart` to be implemented for the shopping cart and the checkout operations. `Views` was used to setup the various displays of the product in different pages like in the home and the product pages and in the product page itself. Since Indian rupee was not a paypal currrency for accepting the card payments, relevant patches were written and updated like <a href="https://www.drupal.org/user/283656">here</a> to enable accepting payments in it.
+
+---
+Full Stack Development & Maintenance - LinuxFlavour<br>
+Nov 2006 – May 2015<br>
+Tools: Drupal 6 and 7, Ubercart, SQL<br>
+Platform: LAMP, Nginx<br>
+Description:<br>
+   LinuxFlavour is one of the famous Linux distributors in India. LF required a clear and easy portal to sell their Linux media. The portal was setup using Drupal and Ubercart on LAMP stack. Periodic maintenance was performed like scheduled backups. Portal was updated for newer module versions and for Drupal as well whenever the newer versions were available to avoid security risks. 
+
+---
+
 Automation Technical Lead - Disney<br>
 Jun 2010 – May 2011<br>
 Tools: QTP<br>
