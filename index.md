@@ -1,5 +1,5 @@
 ### Profile
-I possess a total of about fifteen years of work experience as a software engineer. My professional work experience is in feature or library development, QA with Automation (API and UI) and performance testing.
+Software Programmer with about eight years of experience in software development. Proficient in essential software engineering skills, including full-stack development and design of database.
 
 - Design pattern implementations with SOLID principles, Dependency Injection and OOP concepts
 - API and front end web development with NodeJS, NextJS and React
