@@ -2,9 +2,6 @@
 I possess a total of about fifteen years of work experience as a software engineer. My professional work experience is in feature or library development, QA with Automation (API and UI) and performance testing.
 
 - End to End full stack feature web development using MS Blazor and ASP.NET
-- REST SOA API functional test automation framework and tests development
-- UI automation test framework and tests development using the Selenium webdriver
-- Machine learning QA using API automated tests and data comparison(s)
 - Test Driven Development (TDD) to write fast and robust automated tests 
 - Continuous Integration server development using Webrick to consume Quay.io posts for each Docker successful build completion and to - run the tests on them
 - Docker container management and environment setup
