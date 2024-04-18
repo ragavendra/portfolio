@@ -74,10 +74,10 @@ _<a href="https://github.com/ragavendra/PerfService" target="_blank">Perf Servic
 ---
 
 Translink<br>
-Software Developer<br>
+Software Engineer<br>
 June 2019 – December 2020<br>
 Tools: MS Visual Studio 2017<br>
-Platform: C#, Selenium webdriver<br>
+Platform: C#<br>
 Description:<br>
 _API automation_
  - Implementing/ setting up tests framework for API automation testing. API tests for migration to Azure cloud.  Checking the API call response status, data comparison and responses verification with integration testing. Machine learning generated data was tested for accuracy and validity, say for the bus arrival times at a particular bus stop.
@@ -88,13 +88,10 @@ _Test case migration tool_
 _Selenium web automation developer_
  - Updating the existing Selenium web automation test framework for the UI web tests development. UI tests for Smoke/ regression testing after each release.
 
-_JMeter performance tests_
- - Designed the tests to check the load times for the page loads and the login functions. Numbers were shared based on the resources usage and the condition(s) for the CMS to break or underperform.
-
 ---
 
 Microserve<br>
-Software Developer - Translink<br>
+Software Engineer - Translink<br>
 Apr 2018 – May 2019<br>
 Tools: MS Visual Studio 2017<br>
 Platform: Atata, C#<br>
@@ -105,13 +102,10 @@ _API automation_
 _Atata web automation developer_
  - Implementing the Atata web automation test framework for the UI web tests development.
 
-_Native windows application automation_
- - for the active directory application which was used for network administration operations like add/ edit/ update contractors/ employees and all.
-
 ---
 
 Mogo<br>
-Software Developer<br>
+Software Engineer<br>
 June 2015 – Nov 2016<br>
 Tools: Selenium, Vim with Tmux<br>
 Platform: Ruby, Webrick, Docker, AWS, Linux<br>
@@ -119,19 +113,13 @@ Description:<br>
 _API automation tests and framework development_
  - Developed the API tests using the Minitest and added methods for each of the endpoints to make the REST calls and verify the response data
 
-_UI automation tests and framework development_
- - Developed the UI tests using the Selenium webdriver and added the page objects for each of the web pages to perform various data related operations on them.
-
 _Continuous Integration server sole development using Webricks_
  - Webrick server was built to consume Quay’s successful build complete POSTs. Once the build complete post was received by the server, the newer docker images were pulled and updated on the server using the Docker commands.  Finally, the API and the UI tests were run on them, the run results and its log URL was posted to the Slack channel for the subscribers to see.
-
-_JMeter API performance tests_
- - Designed the framework for the SOA API performance tests. Wrote a sample JMeter performance tests with the help of the jMeter gem and tried jruby integration as well.
 
 ---
 
 Exan Dental<br>
-Software Developer<br>
+Software Engineer<br>
 Mar 2014 – May 2015<br>
 Tools: TestComplete, SoapUI, JMeter, JIRA<br>
 Platform: Javascript, Groovy, Web services, Web, Windows<br>
@@ -139,15 +127,9 @@ Description:<br>
 _TestComplete automation framework and tests developer_
  - Test framework and tests were developed using the independent scripts to launch, load and run the tests developed in TestComplete and are scheduled to run on a daily basis.
 
-_SoapUI automation framework and tests developer_
- - Web services tests were developed in SoapUI and Groovy scripting was used. These tests were scripted to launch, load and run the tests and report its results.
-
-_JMeter performance  framework and tests developer_
- - Web services framework and tests developed using JMeter to launch, load and run Web services performance tests and report results
-
 ---
 Capgemini<br>
-Software Developer<br>
+Software Engineer<br>
 Jun 2011 – Nov 2013<br>
 Tools: QTP, Notepad++<br>
 Platform: PHP, C#, SAP, Linux, Windows<br>
@@ -193,7 +175,7 @@ Description:<br>
 
 ---
 
-Automation Technical Lead - Disney<br>
+Software Engineer - Disney<br>
 Jun 2010 – May 2011<br>
 Tools: QTP<br>
 Platform: IBM Mainframe<br>
@@ -205,7 +187,7 @@ Description:<br>
 ---
 
 Keane<br>
-Software Developer - McKesson Healthcare<br>
+Software Engineer - McKesson Healthcare<br>
 Jan 2010 – May 2010<br>
 Tools: Quality Centre, Mindmap<br>
 Description:<br>
@@ -216,7 +198,7 @@ Description:<br>
 
 ---
 
-Software Developer -  Standard & Poor<br>
+Software Engineer -  Standard & Poor<br>
 Jun 2009 – Dec 2009<br>
 Tools: Quality Centre, Spira, Rally<br>
 Platform: Web<br>
@@ -226,7 +208,7 @@ Description:<br>
 ---
 
 IBM<br>
-Software Developer<br>
+Software Engineer<br>
 Nov 2006 – May 2009<br>
 Tools: Rational Functional Tester, DB2<br>
 Platform: Javascript, Java<br>
