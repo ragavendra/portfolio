@@ -79,13 +79,11 @@ June 2019 – December 2020<br>
 Tools: MS Visual Studio 2017<br>
 Platform: C#<br>
 Description:<br>
-_API automation_
- - Implementing/ setting up tests framework for API automation testing. API tests for migration to Azure cloud.  Checking the API call response status, data comparison and responses verification with integration testing. Machine learning generated data was tested for accuracy and validity, say for the bus arrival times at a particular bus stop.
-
 _Test case migration tool_
  - Developed a tool to migrate the test cases from qTest to VSTS in the Azure.
 
-_Selenium web automation developer_
+ - Implementing/ setting up tests framework for API automation testing. API tests for migration to Azure cloud.  Checking the API call response status, data comparison and responses verification with integration testing. Machine learning generated data was tested for accuracy and validity, say for the bus arrival times at a particular bus stop.
+
  - Updating the existing Selenium web automation test framework for the UI web tests development. UI tests for Smoke/ regression testing after each release.
 
 ---
@@ -96,10 +94,9 @@ Apr 2018 – May 2019<br>
 Tools: MS Visual Studio 2017<br>
 Platform: Atata, C#<br>
 Description:<br>
-_API automation_
+
  - For comparing the API responses from the old production to the new system built on Azure infrastructure. Tools development to help field testing and data analysis.
 
-_Atata web automation developer_
  - Implementing the Atata web automation test framework for the UI web tests development.
 
 ---
@@ -110,7 +107,7 @@ June 2015 – Nov 2016<br>
 Tools: Selenium, Vim with Tmux<br>
 Platform: Ruby, Webrick, Docker, AWS, Linux<br>
 Description:<br>
-_API automation tests and framework development_
+
  - Developed the API tests using the Minitest and added methods for each of the endpoints to make the REST calls and verify the response data
 
 _Continuous Integration server sole development using Webricks_
@@ -124,7 +121,7 @@ Mar 2014 – May 2015<br>
 Tools: TestComplete, SoapUI, JMeter, JIRA<br>
 Platform: Javascript, Groovy, Web services, Web, Windows<br>
 Description:<br>
-_TestComplete automation framework and tests developer_
+
  - Test framework and tests were developed using the independent scripts to launch, load and run the tests developed in TestComplete and are scheduled to run on a daily basis.
 
 ---
@@ -134,8 +131,6 @@ Jun 2011 – Nov 2013<br>
 Tools: QTP, Notepad++<br>
 Platform: PHP, C#, SAP, Linux, Windows<br>
 Description:<br>
-_SAP-ISU test framework and tools development_
- - The SAP tests framework and the tools were developed to help create and provision the smart meters in the system with verification checks across integrated systems.
 
 _Data Mining tool_
  - Developed to fetch the smart meter data across the three main systems in the smart meter technology. The three main systems the SAP-ISU, Meter Data Management system and the Openway Collection Engine system data using the Oracle databases were joined effectively. It was used for the test data purposes, data concurrency checks and to identify the meter grouping based on its type.
@@ -153,7 +148,9 @@ _Cisco routers time latency check application_
  - Developed to connect and fetch time periodically from the router.
  The time data was later displayed using Highcharts graphical JQuery Javascript libraries to evaluate the time latency. Apparently the time lag would cause the router to reboot and the lag delta needed to be identified and reported to the firmware department to be fixed.
 
-_Independent scripts or tests launcher_
+ - The SAP tests framework and the tools were developed to help create and provision the smart meters in the system with verification checks across integrated systems.
+
+_Independent scripts launcher_
  - Developed to launch, load and run the automated tests. It was scheduled for the daily run and the output test results were in the JSON format for the Node.JS app to pick it up and report.
 
 ---
