@@ -45,7 +45,7 @@ _<a href="https://github.com/ragavendra/Selenium" target="_blank">Selenium</a>_
 
 Minimal API
 TPC - Blizzard Entertainment<br>
-Sr Performance Developer<br>
+Software Developer<br>
 August 2022 – Current<br>
 Tools: MS Visual Studio 2019, 2022<br>
 Platform: C#, gRPC, Blazor<br>
@@ -82,7 +82,7 @@ _<a href="https://github.com/ragavendra/PerfService" target="_blank">Perf Servic
 ---
 
 Translink<br>
-Sr QA Automation Analyst<br>
+Software Developer<br>
 June 2019 – December 2020<br>
 Tools: MS Visual Studio 2017<br>
 Platform: C#, Selenium webdriver<br>
@@ -102,7 +102,7 @@ _JMeter performance tests_
 ---
 
 Microserve<br>
-QA Automation - Translink<br>
+Software Developer - Translink<br>
 Apr 2018 – May 2019<br>
 Tools: MS Visual Studio 2017<br>
 Platform: Atata, C#<br>
@@ -119,7 +119,7 @@ _Native windows application automation_
 ---
 
 Mogo<br>
-Sr. Software Developer in Test<br>
+Software Developer<br>
 June 2015 – Nov 2016<br>
 Tools: Selenium, Vim with Tmux<br>
 Platform: Ruby, Webrick, Docker, AWS, Linux<br>
@@ -139,7 +139,7 @@ _JMeter API performance tests_
 ---
 
 Exan Dental<br>
-Software Developer in Test<br>
+Software Developer<br>
 Mar 2014 – May 2015<br>
 Tools: TestComplete, SoapUI, JMeter, JIRA<br>
 Platform: Javascript, Groovy, Web services, Web, Windows<br>
@@ -155,7 +155,7 @@ _JMeter performance  framework and tests developer_
 
 ---
 Capgemini<br>
-Software Developer in Test - BC Hydro<br>
+Software Developer<br>
 Jun 2011 – Nov 2013<br>
 Tools: QTP, Notepad++<br>
 Platform: PHP, C#, SAP, Linux, Windows<br>
@@ -213,7 +213,7 @@ Description:<br>
 ---
 
 Keane<br>
-SQA Team Lead - McKesson Healthcare<br>
+Software Developer - McKesson Healthcare<br>
 Jan 2010 – May 2010<br>
 Tools: Quality Centre, Mindmap<br>
 Description:<br>
@@ -224,7 +224,7 @@ Description:<br>
 
 ---
 
-QA Tester -  Standard & Poor<br>
+Software Developer -  Standard & Poor<br>
 Jun 2009 – Dec 2009<br>
 Tools: Quality Centre, Spira, Rally<br>
 Platform: Web<br>
@@ -234,7 +234,7 @@ Description:<br>
 ---
 
 IBM<br>
-Automation/ Manual Tester<br>
+Software Developer<br>
 Nov 2006 – May 2009<br>
 Tools: Rational Functional Tester, DB2<br>
 Platform: Javascript, Java<br>
