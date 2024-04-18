@@ -32,17 +32,10 @@ _<a href="https://github.com/ragavendra/WebAuth" target="_blank">Web Authenticat
 _<a href="https://github.com/ragavendra/minApi" target="_blank">Minimal Api</a><br>_
  - Minimal ASP .Net app showing various options for a demo app to be used for testing and learning purposes.
 
-_<a href="https://github.com/ragavendra/APITests" target="_blank">APITests</a><br>_
- - Test framework for implementing HTTP tests with almost no additional packages.
-
-_<a href="https://github.com/ragavendra/Selenium" target="_blank">Selenium</a>_
- - Test framework for implementing UI tests with minimal additional packages.
-
 ---
 
 ### Professional Experience
 
-Minimal API
 TPC - Blizzard Entertainment<br>
 Software Developer<br>
 August 2022 – Current<br>
