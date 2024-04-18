@@ -2,25 +2,27 @@ title: Ragavendra Nagraj # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software Developer<br>Programmer<br>Performance Engineer<br>Security Testing<br><br>
 
+  Projects<br>
+  <a href="https://stopsnearme.ca/" target="_blank">Stops Near Me</a><br>
+
   Github Projects<br>
-  <a href="https://github.com/ragavendra/PerfService">Perf Service</a><br>
-  <a href="https://github.com/ragavendra/DataConvergenceTool">Data Convergence Tool</a><br>
-  <a href="https://github.com/ragavendra/RealWorldClasses">Real World Classes</a><br>
+  <a href="https://github.com/ragavendra/DataConvergenceTool" target="_blank">Data Convergence Tool</a><br>
+  <a href="https://github.com/ragavendra/RealWorldClasses" target="_blank">Real World Classes</a><br>
+  <a href="https://github.com/ragavendra/PerfService" target="_blank">Perf Service</a><br>
 
   <br><br>
-  Blog
-  <a href="https://ragavendra.vercel.app/">Ragavendra ..</a>
+  Blog<br>
+  <a href="https://ragavendra.vercel.app/" target="_blank">Ragavendra ..</a>
   <br><br>
   
   <br><br>
-  Company
-  <a href="https://garden-systems.vercel.app/">Garden Systems</a>
+  Company<br>
+  <a href="https://garden-systems.vercel.app/" target="_blank">Garden Systems</a>
   <br><br>
-  
-  <a href="https://www.linkedin.com/in/ragavendrabn/">LinkedIn</a> 
-  <br><br>
-  <a href="https://github.com/ragavendra">Github</a> 
-  <br><br>
+
+  Social<br>
+  <a href="https://www.linkedin.com/in/ragavendrabn/" target="_blank">LinkedIn</a><br>
+  <a href="https://github.com/ragavendra" target="_blank">Github</a><br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
