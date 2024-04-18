@@ -1,20 +1,19 @@
 ### Profile
 I possess a total of about fifteen years of work experience as a software engineer. My professional work experience is in feature or library development, QA with Automation (API and UI) and performance testing.
 
+- Design pattern implementations with SOLID principles, Dependency Injection and OOP concepts
+- API and front end web development with NodeJS, NextJS and React
+- Back end services development using Grpc and HTTP
+- Database schema creation, data updation and maintenance for SQL databases
 - End to End full stack feature web development using MS Blazor and ASP.NET
-- Test Driven Development (TDD) to write fast and robust automated tests 
-- Continuous Integration server development using Webrick to consume Quay.io posts for each Docker successful build completion and to - run the tests on them
-- Docker container management and environment setup
-- REST API SOA performance tests development using JMeter
-- Technical team lead for Disney for their mainframe applications test automation
-- Automation tests development for web, mainframe terminal based and SAP technologies
-- Domains - Utilities, Media, Finance
+- Integration and Unit test development using mocks and stubs
+- Continuous Integration server development using Webrick to consume Quay.io posts for each Docker successful build completion and to run the tests on them
 
 ### Skills
-Programming Languages:		C#, Javascript, CSS, Ruby, Python, HTML, PHP, Javascript, Groovy, TCL/TK, Bash, C, SQL<br>
+Programming Languages:		Javascript, C#, CSS, Typescript, Python, HTML, Java, SQL, PHP, Bash scripting<br>
 Operating Systems: 		Linux , Windows, Mac, IBM UNIX/ AIX<br>
-Databases:			MySQL, Oracle, MongoDB<br>
-Packages:			Blazor, ASP .Net, NodeJS, Drupal, Selenium, Vim, Asp.net, Rakefile, Expect tool, Docker, TestComplete, JMeter, QTP, Visual Studio, SOAP-UI, SAP – ISU<br>
+Databases:			MySQL, Oracle, SQLite, MongoDB<br>
+Packages:	 	NextJS, React, NodeJS, Blazor, Polly, ASP .Net, JQuery, Moq, Git, Grpc, Redis, Xunit, Leaflet, Nginx, Crontab, TailwindCSS, Vim, Rakefile, Docker, SAP – ISU, Linux, Windows<br>
 
 ### Projects
 
