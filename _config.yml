@@ -1,6 +1,7 @@
 title: Ragavendra Nagraj # your name (or website title) here
+logo: "/images/logo.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Software Developer<br>Programmer<br>Performance Engineer<br>Security Testing<br>
+  Software Developer<br>Programmer<br>Web Developer<br>Performance Engineer<br>Security Testing<br>
   <br>
 
   Projects<br>
@@ -11,7 +12,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/ragavendra/DataConvergenceTool" target="_blank">Data Convergence Tool</a><br>
   <a href="https://github.com/ragavendra/RealWorldClasses" target="_blank">Real World Classes</a><br>
   <a href="https://github.com/ragavendra/PerfService" target="_blank">Perf Service</a><br>
-
+  <br>
+  
   Blog<br>
   <a href="https://ragavendra.vercel.app/" target="_blank">Ragavendra ..</a><br>
   <br>
