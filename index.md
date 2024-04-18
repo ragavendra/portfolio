@@ -108,10 +108,9 @@ Tools: Selenium, Vim with Tmux<br>
 Platform: Ruby, Webrick, Docker, AWS, Linux<br>
 Description:<br>
 
- - Developed the API tests using the Minitest and added methods for each of the endpoints to make the REST calls and verify the response data
-
-_Continuous Integration server sole development using Webricks_
  - Webrick server was built to consume Quay’s successful build complete POSTs. Once the build complete post was received by the server, the newer docker images were pulled and updated on the server using the Docker commands.  Finally, the API and the UI tests were run on them, the run results and its log URL was posted to the Slack channel for the subscribers to see.
+
+ - Developed the API tests using the Minitest and added methods for each of the endpoints to make the REST calls and verify the response data
 
 ---
 
